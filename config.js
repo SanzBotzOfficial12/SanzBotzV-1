@@ -50,7 +50,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
 global.sig = 'https://instagram.com/sanzbotzofficial' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT' // github
+global.sgh = 'https://github.com/SanzBotzOfficial12' // github
 global.sgc = 'https://chat.whatsapp.com/Gn1VDmYLSgS1uK6DZTZ2ZW' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://youtube.com/channel/UCt4RhubWBWpOpjjcmffPojg' // my youtube channel
@@ -73,8 +73,8 @@ global.namebot = 'SANZ-MODS-BOT-V1'
 global.nameown = 'SANZ MODS DEV'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'SanzBotzOfficial12' // nama github lu
+global.linkgithub = 'https://github.com/SanzBotzOfficial12' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -88,7 +88,7 @@ global.owner = [
   ['6281212083401', 'SANZ MODS DEV', true],
   ['6287833465515', 'Xin-Chan', true],
   ['6289652537228', 'NOMER BOT, true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6287736651809', 'NOMER BOT', true],
   ['-', 'ISI KALAU ADA', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
